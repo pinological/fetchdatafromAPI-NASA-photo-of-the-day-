@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(resource/img.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.top {
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.top1 {
+    font-size: 40px;
+    color: rgb(45, 206, 139);
+    display: inline-block;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.layer {
+    background-color: black;
+    border-radius: 30px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+.textmore {
+    font-size: 15px;
+    color: white;
+    margin: 0px 30px;
+    padding: 20px;
+}
